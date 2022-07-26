@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Arda Köksal
+- 🏠 I'm living in Turkish/Kocaeli
 - 👀 I’m interested in computer games and try new occupation
 - 🌱 I’m currently learning phyton
 - 📫 How to reach me ardakoksal41@gmail.com or +905436417485
--     My education final year engineering student in Kütahya Dumlupinar University
+- 👨‍🎓  My education final year engineering student in Kütahya Dumlupinar University
